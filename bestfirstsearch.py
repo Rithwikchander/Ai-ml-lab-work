@@ -45,4 +45,4 @@ if __name__ == "__main__":
 
     print(f"Path found by best_first_search: {path} with target heuristic: {cost}")
 
-    print("SAMARTH - 24BECS140")
+    print("RITHWIK - 24BECS135")
